@@ -1,0 +1,32 @@
+[
+    {
+        "id": 1,
+        "name": "Arya",
+        "disease": "Cough"
+    },
+    {
+        "id": 2,
+        "name": "Bharat",
+        "disease": "Cough"
+    },
+    {
+        "id": 3,
+        "name": "Chandu",
+        "disease": "headache"
+    },
+    {
+        "id": 4,
+        "name": "Dinesh",
+        "disease": "Cold"
+    },
+    {
+        "id": 5,
+        "name": "Eswar",
+        "disease": "Stomach pain"
+    },
+    {
+        "id": 6,
+        "name": "Arjit",
+        "disease": "Head ache"
+    }
+]
